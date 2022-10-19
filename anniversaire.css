@@ -1,0 +1,67 @@
+body {
+  margin: 0px;
+  background: linear-gradient(firebrick, skyblue) no-repeat center fixed;
+
+}
+
+h1 {
+
+  text-align: center;
+  margin-top: 0px;
+  color: Black;
+  font-family: Arial;
+  font-size: 75px;
+}
+
+h2{
+  font-size: 50px;
+}
+
+li{
+  text-align: left;
+  font-size: 60px;
+  font-family: Arial;
+}
+
+a{
+  font-size: 40px;
+  font-family: Arial;
+  color: black;
+  text-decoration-line: none;
+
+}
+p{
+  font-size: 40px;
+  background-color: firebrick;
+  width: 250px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#carte
+{
+  width: 1245px;
+  height: 775px;
+  margin:0 auto;
+  background-color: lightgray;
+  text-align: left;
+
+}
+
+
+#carte2
+{
+  width: 1245px;
+  height: 775px;
+  margin:0 auto;
+  background-color: white;
+}
+
+#carte3
+{
+  width: 1245px;
+  height: 775px;
+  margin:0 auto;
+  background-color: white;
+  text-align: center;
+}
